@@ -17,6 +17,10 @@
   <a href="https://github.com/rajkstats?tab=repositories">📚 What I've learned recently about data science</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/e2b-dev/open-computer-use/pulls">🤝 Contributor to e2b-dev/open-computer-use</a>
+</p>
+
 ---
 
 <h2 align="center">🔗 Connect with me:</h2>
