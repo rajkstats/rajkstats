@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">🚀 Where to start:</h2>
+<h2 align="center">🚀 Where to start</h2>
 
 <p align="center">
   <a href="https://github.com/rajkstats?tab=repositories">📚 What I've been building recently</a>
@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🔗 Connect with me:</h2>
+<h2 align="center">🔗 Connect with me</h2>
 
 <p align="center">
   <a href="https://x.com/rajkstats" target="_blank">
