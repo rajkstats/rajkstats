@@ -14,7 +14,7 @@
 <h2 align="center">🚀 Where to start:</h2>
 
 <p align="center">
-  <a href="https://github.com/rajkstats?tab=repositories">📚 What I've learned recently about data science</a>
+  <a href="https://github.com/rajkstats?tab=repositories">📚 What I've been building recently</a>
 </p>
 
 <p align="center">
