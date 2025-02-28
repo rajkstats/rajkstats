@@ -118,6 +118,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/R_Shiny-02569B?style=for-the-badge&logo=r&logoColor=white" alt="R Shiny">
 </p>
 
 <p align="center"><strong>Development Environment</strong></p>
