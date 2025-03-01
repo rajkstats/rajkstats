@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <b> AI/ML Engineering | Recommender Systems </b><br>
+  <b> AI/ML Engineering | Recommender Systems | Adtech </b><br>
   Building AI-powered solutions with a focus on LLMs, RAG applications, and personalization systems
 </p>
 
@@ -21,6 +21,10 @@ I'm currently exploring:
 - Large Language Models & RAG applications
 - AI Agents & Autonomous systems
 - MLOps & Production ML systems
+
+### Open Source Contributions
+
+- Active contributor to [open-computer-use](https://github.com/e2b-dev/open-computer-use) - A secure AI computer use agent powered by E2B Desktop Sandbox and controlled by open-source LLMs
 
 ### Featured Projects
 
@@ -47,11 +51,13 @@ I'm currently exploring:
 
 ### Recent Learning
 
-- [LLM Engineering – Foundations to SLMs](https://github.com/rajkstats/LLM-Engineering-Foundations-to-SLMs) (Maven, 2024)
+- [LLM Engineering – Foundations to SLMs](https://github.com/rajkstats/LLM-Engineering-Foundations-to-SLMs) (Maven - AI MakerSpace, 2024)
 - [LLMs in Production](https://github.com/rajkstats/uplimit-llm-in-production) (Uplimit, 2024)
 - [Building Advanced RAG Applications](https://github.com/rajkstats/vectorsearch-applications) (Uplimit, 2024)
-- [AI Engineering Bootcamp](https://github.com/rajkstats/AIE2) (AI MakerSpace, 2024)
+- [AI Engineering Bootcamp](https://github.com/rajkstats/AIE2) (Maven - AI MakerSpace, 2024)
 - [MLOps - From Models to Production](https://github.com/rajkstats/uplimit-mlops) (Uplimit, 2024)
+- [LLM Apps with Langchain](https://github.com/rajkstats/uplimit_langchain) |  (Uplimit, 2024)
+- [Responsible AI](https://www.credential.net/43ed6104-56dd-4ade-9594-f7e5e02b34ac#acc.YRszOBU9) | (Uplimit, 2024)
 
 ### Achievements
 
