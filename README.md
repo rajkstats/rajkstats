@@ -29,7 +29,7 @@ I'm currently exploring:
 - **[GitDiscoverer](https://github.com/rajkstats/git_discoverer_app)** - Grand prize winner of 2nd RShiny Contest by RStudio
 - **[AOL Exploratory Data Analysis](https://github.com/rajkstats/AOL-Exploratory-Data-Analysis)** - EDA of AOL search query logs using R
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -45,7 +45,7 @@ I'm currently exploring:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-### 📚 Recent Learning
+### Recent Learning
 
 - [LLM Engineering – Foundations to SLMs](https://github.com/rajkstats/LLM-Engineering-Foundations-to-SLMs) (Maven, 2024)
 - [LLMs in Production](https://github.com/rajkstats/uplimit-llm-in-production) (Uplimit, 2024)
@@ -55,10 +55,8 @@ I'm currently exploring:
 
 ### 🏆 Achievements
 
-- Grand prize winner of 2nd RShiny Contest hosted by RStudio
-- Judge in the 3rd Annual Shiny contest hosted by RStudio
-- Arctic Code Vault Contributor
-
+- [Grand prize winner](https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/) of 2nd RShiny Contest hosted by RStudio
+- Judge in the [3rd Annual Shiny contest](https://blog.rstudio.com/2021/06/24/winners-of-the-3rd-annual-shiny-contest/) hosted by RStudio
 ---
 
 <p align="center">
