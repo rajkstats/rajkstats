@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Raj Kumar | @rajkstats</div>
+# <div align="center">Raj Kumar | @rajkstats</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajkstats/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -53,7 +53,7 @@ I'm currently exploring:
 - [AI Engineering Bootcamp](https://github.com/rajkstats/AIE2) (AI MakerSpace, 2024)
 - [MLOps - From Models to Production](https://github.com/rajkstats/uplimit-mlops) (Uplimit, 2024)
 
-### 🏆 Achievements
+### Achievements
 
 - [Grand prize winner](https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/) of 2nd RShiny Contest hosted by RStudio
 - Judge in the [3rd Annual Shiny contest](https://blog.rstudio.com/2021/06/24/winners-of-the-3rd-annual-shiny-contest/) hosted by RStudio
