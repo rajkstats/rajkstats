@@ -51,6 +51,7 @@ I'm currently exploring:
 
 ### Recent Learning
 
+- [AI Agents Camp](https://github.com/rajkstats/AI-Agent-Camp) (Jan 2025) 
 - [LLM Engineering – Foundations to SLMs](https://github.com/rajkstats/LLM-Engineering-Foundations-to-SLMs) (Maven - AI MakerSpace, 2024)
 - [LLMs in Production](https://github.com/rajkstats/uplimit-llm-in-production) (Uplimit, 2024)
 - [Building Advanced RAG Applications](https://github.com/rajkstats/vectorsearch-applications) (Uplimit, 2024)
